@@ -18,5 +18,7 @@ This code implements a basic snake game using Python's turtle graphics and the f
 **This game is built using the following modules:**
 
 ▪ Turtle: It’s a pre-installed Python library that lets users create shapes and pictures using a virtual canvas.
+
 ▪ Time: Use this function to count how many seconds have passed since the epoch.
+
 ▪ Random: This function generates random numbers in Python by using the random module.
